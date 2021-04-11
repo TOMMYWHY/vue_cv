@@ -121,20 +121,20 @@ html{
         fullMarkdown: `TOMMY JIANG
 ----
 
-Front-end Developer,PHP Web Developer,Linux Systems Administrator.
+Front-end Developer,PHP Web Developer.
 
 
 Skill List
 ----
 
-1. __Web development__:  PHP/Node/Java SE/C#
-2. __Web framework__:  Laravel/WordPress/Opencart/Express
-3. __Front-end framework__:  AngularJS/Vue2.X/Bootstrap/HTML5/JQUERY
+1. __Web development__:  PHP/Python/Java
+2. __Web framework__:  Laravel/SpringMVC
+3. __Front-end framework__:  Vue2.X/Bootstrap/HTML5/JQUERY
 4. __Front-end tools__:  Bower/Gulp/Webpack/Sass/Less
-5. __Database-related__:  MySQL/SQLite/SQL Server/MongoDB
+5. __Database-related__:  MySQL/MongoDB
 6. __Deployment tools__: Svn/Git/Composer
 7. __Operation System__: FreeBSD/Centos/Ubuntu
-8. __Runtime Environment__: Apache/Nginx/Tomcat/IIS7
+8. __Runtime Environment__: Apache/Nginx/Docker
 9. __Other Tools__: Axure RP/Ps/Ai
 
 Work Experience
@@ -142,11 +142,8 @@ Work Experience
 
 * __Web Developer__
 
-3A IT SOLUTIONS LTD. (1 year)
+3A IT SOLUTIONS LTD. (2 year)
 
-* __Linux Systems Administrator__
-
-KC Partners LTD.  (3 months)
 
 链接
 ----
